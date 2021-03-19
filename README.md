@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yashaswi</h1>
 <h3 align="center">Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **about automation processes and deep learning tools.**
+- 🔭 I’m currently getting my hands dirty on **upskilling various coding languages.**
+
+- 🌱 I have the knowledge **about automation processes and deep learning tools.**
 
 - 👯 I’m looking to collaborate on **any problem related to data science and machine learning.**
 
@@ -25,7 +27,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
